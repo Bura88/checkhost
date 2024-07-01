@@ -21,3 +21,4 @@ def valio(url):
         except:
                 print ('ошибка')
 print (valio(url))
+print(1)
